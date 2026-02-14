@@ -15,7 +15,7 @@
 
 
 ![Docker](https://badgen.net/badge/Docker/Containers/2496ED?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![Nginx](https://badgen.net/badge/nginx/stable/4EAA25?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+![Nginx](https://badgen.net/badge/Nginx/stable/4EAA25?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
 ![Python](https://badgen.net/badge/Python/3.11+/3776AB?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 ![HTML5](https://badgen.net/badge/HTML5/Semantic/E34F26?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 ![CSS3](https://badgen.net/badge/CSS3/Styling/1572B6?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
